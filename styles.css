@@ -1,0 +1,88 @@
+body {
+    text-align: center;
+    margin: 0;
+    font-size: 18px;
+}
+
+#main {
+    background-color: #bfc1c4;
+    margin: 35px 10px;
+    border-radius: 12px;
+    color: #252525;
+}
+
+#title {
+    padding: 40px 0 10px 0;
+}
+
+#title h1 {
+    font-size: 2.5rem;
+    letter-spacing: 0.15px;
+    
+}
+
+#img-div {
+    background-color: #dfdede;
+    margin: 0 10px 10px 20px;
+    border-radius: 10px;
+    
+}
+
+#image {
+    display: block;
+    margin: 10px auto;
+    width: 800px;
+    height: auto;
+    max-width: 100%;
+}
+
+#img-caption {
+    padding: 15px;
+}
+
+#tribute-info{
+    width: 750px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+#tribute-info h3 {
+    font-size: 1.4rem;
+    padding: 30px 0 20px 0; 
+}
+
+#tribute-info ul {
+    text-align: left;
+}
+
+#tribute-info li {
+    margin-bottom: 15px;
+}
+
+blockquote {
+    width: 700px;
+    max-width: 100%;
+    margin: 60px auto;
+    padding: 0 10px;
+    font-style: italic;
+    text-align: left;
+}
+
+#gnu {
+    width: 120px;
+    height: 116px;
+    margin-bottom: 10px;
+}
+
+.more-info-link {
+    font-size: 1.3rem;
+    padding-bottom: 40px;
+}
+
+a:visited {
+    color: #252525;
+}
+
+a:hover {
+    color: #464646;
+}
